@@ -48,4 +48,11 @@ Run attack code.
 ```shell
 python attack.py  -m <path to COLMAP or NeRF Synthetic dataset>  --source_gs <the source class name> --target_class 1
 ```
-"# GSAttack" 
+
+# Acknowledgement
+This work is build upon 3DGS, many thanks to the 
+
+* [NeRFail](https://github.com/jiang-wenxiang/NeRFail.git) 
+
+and many other contributors. 
+
